@@ -3,7 +3,7 @@ description:test with Kindled Orchid for success
 //from https://www.reddit.com/r/DestinyTheGame/comments/a64v3t/massive_breakdown_of_black_armory_forge_and/
 
 //kindled orchid (curated)
-dimwishlist:item=2575506895&perks=4090651448,4134353779,1015611457,3425386926
+dimwishlist:item=2575506895&perks=4090651448,4134353779,1015611457,3425386926#notes:Curated Roll, So much Potential!
 
 //Falling Guillotine
 //Notes: this is a test note
@@ -12,6 +12,28 @@ dimwishlist:item=614426548&perks=938542991,52780822,1749209109,3708227201#notes:
 dimwishlist:item=614426548&perks=938542991,599007201,2030760728,3016987351#notes:Excellent Defensive roll, pair with Backup Mag.
 dimwishlist:item=614426548&perks=436053704,269888150,2590710093,3913600130#notes:Good enough for single target, continue search.
 
-//Fellwinter's Lie
+//Fellwinter's Lie (Curated)
 //Notes: curated just adding for tests
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391#notes:The Tyrant Lies, the Lords Protect.
+
+//The Old Fashioned
+//Notes: Sometimes the old ways are the fastest...
+dimwishlist:item=3569802112&perks=1926090094,106909392,706527188,3038247973#notes:Good handling, great for cleanups, pair with Eriana's Vow.
+dimwishlist:item=3569802112&perks=1926090095,3142289711,706527188,957782887#notes:Good range, great for PvP, pair with Sniper.
+
+//Seven Seraph CQC-12
+//Notes: Lightweight shotgun, Assault Mag for faster RPM.
+dimwishlist:item=1821724780&perks=1482024992,791862061,3161816588,1546637391#notes:God Roll, hope for Snapshot.
+dimwishlist:item=1821724780&perks=1482024992,791862061,3300816228,3275789089#notes:Shield Breaker, Handling MW.
+dimwishlist:item=1821724780&perks=1482024992,791862061,706527188,3275789089#notes:Shield Breaker, Reload MW.
+
+//IKELOS_SG_V1.0.2
+//Notes:When the Seraphs failed, the Tyrant improved upon them.
+dimwishlist:item=1096206669&perks=1482024992,106909392,4071163871,1546637391#notes:God Roll, Range MW
+dimwishlist:item=1096206669&perks=1482024992,106909392,4071163871,2360754333#notes:God Roll, Handling MW
+dimwishlist:item=1096206669&perks=1482024992,106909392,4071163871,3425386926#Notes:God Roll, Stability MW
+dimwishlist:item=1096206669&perks=1482024992,106909392,1556840489,1546637391#Notes:Good Roll, Range MW
+dimwishlist:item=1096206669&perks=1482024992,106909392,1556840489,2360754333#notes:Good Roll, Handling MW
+dimwishlist:item=1096206669&perks=1482024992,106909392,1556840489,3425386926#notes:Good Roll, Stability MW
+
+
