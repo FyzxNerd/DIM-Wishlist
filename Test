@@ -21,6 +21,21 @@ dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391#no
 dimwishlist:item=3569802112&perks=1926090094,106909392,706527188,3038247973#notes:Good handling, great for cleanups, pair with Eriana's Vow.
 dimwishlist:item=3569802112&perks=1926090095,3142289711,706527188,957782887#notes:Good range, great for PvP, pair with Sniper.
 
+//Gnawing Hunger
+//Notes: if you get hungry enough.
+dimwishlist:item=821154603&perks=1482024992,3177308360,1820235745,3425386926#notes:God Roll, Stability MW
+dimwishlist:item=821154603&perks=1482024992,3177308360,3643424744,3425386926#notes:God Roll, Stability MW
+dimwishlist:item=821154603&perks=1392496348,2420895100,1820235745,3523296417#notes:Why aren't you throwing more Grenades!
+dimwishlist:item=821154603&perks=1392496348,2420895100,3643424744,3523296417#notes:Why aren't you throwing more Grenades!
+
+//Truthteller
+//Notes:
+dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,3523296417
+dimwishlist:item=1946491241&perks=3798852852,2822142346,3300816228,3523296417
+dimwishlist:item=1946491241&perks=3798852852,409831596,3300816228,3523296417
+dimwishlist:item=1946491241&perks=3809316345,3301904089,1631667848,4082225868
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,1683379515
+
 //Seven Seraph CQC-12
 //Notes: Lightweight shotgun, Assault Mag for faster RPM.
 dimwishlist:item=1821724780&perks=1482024992,791862061,3161816588,1546637391#notes:God Roll, hope for Snapshot.
@@ -35,13 +50,6 @@ dimwishlist:item=1096206669&perks=1482024992,106909392,4071163871,3425386926#not
 dimwishlist:item=1096206669&perks=1482024992,106909392,1556840489,1546637391#notes:Good Roll, Range MW
 dimwishlist:item=1096206669&perks=1482024992,106909392,1556840489,2360754333#notes:Good Roll, Handling MW
 dimwishlist:item=1096206669&perks=1482024992,106909392,1556840489,3425386926#notes:Good Roll, Stability MW
-
-//Gnawing Hunger
-//Notes: if you get hungry enough.
-dimwishlist:item=821154603&perks=1482024992,3177308360,1820235745,3425386926#notes:God Roll, Stability MW
-dimwishlist:item=821154603&perks=1482024992,3177308360,3643424744,3425386926#notes:God Roll, Stability MW
-dimwishlist:item=821154603&perks=1392496348,2420895100,1820235745,3523296417#notes:Why aren't you throwing more Grenades!
-dimwishlist:item=821154603&perks=1392496348,2420895100,3643424744,3523296417#notes:Why aren't you throwing more Grenades!
 
 //IKELOS_HC_V1.0.2
 //Notes:When the Seraphs failed, the Tyrant augmented them.
@@ -62,10 +70,8 @@ dimwishlist:item=1200824700&perks=3250034553,4071163871,1546637391
 dimwishlist:item=1200824700&perks=1392496348,4071163871,1683379515
 dimwishlist:item=1200824700&perks=3250034553,4071163871,1683379515
 
-//Truthteller
-//Notes:
-dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,3523296417
-dimwishlist:item=1946491241&perks=3798852852,2822142346,3300816228,3523296417
-dimwishlist:item=1946491241&perks=3798852852,409831596,3300816228,3523296417
-dimwishlist:item=1946491241&perks=3809316345,3301904089,1631667848,4082225868
-dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,1683379515
+//IKELOS_SMG_V1.0.2
+//Notes:When the Seraphs failed, the Tyrant rebuilt them.
+dimwishlist:item=2222560548&perks=1482024992,1140096971,1359896290,1890422124#notes:PvP, for lazy SMG bounties, Stability/Range MW
+dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,1546637391#notes:PvP, holdout counter offense, Handling MW.
+dimwishlist:item=2222560548&perks=1482024992,1140096971,1820235745,3523296417#notes:PvE, Reload MW, Grenades!
